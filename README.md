@@ -70,7 +70,7 @@ This project demonstrates an end-to-end data analytics workflow, starting from d
 
 ---
 
-## 📊 Dashboard
+## Dashboard
 
 * Interactive Power BI dashboard showcasing:
 
@@ -80,7 +80,7 @@ This project demonstrates an end-to-end data analytics workflow, starting from d
 
 ---
 
-## 📈 Results & Insights
+## Results & Insights
 
 * Identified important trends and patterns in the dataset.
 * Provided actionable insights based on SQL and visual analysis.
