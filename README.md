@@ -1,7 +1,5 @@
 # Customer-Behavior-Analytics
 
-# Data Analytics Project README
-
 ## Overview
 
 This project demonstrates an end-to-end data analytics workflow, starting from data loading and exploration to building interactive dashboards and generating insights. The goal is to extract meaningful patterns and present them in a clear, business-friendly format.
